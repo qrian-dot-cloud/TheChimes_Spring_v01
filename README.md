@@ -41,6 +41,6 @@ References, source acknowledgements, and the Generative AI Declaration are inclu
 ## Author
 
 Kyuri Kim (QRIAN)  
-MA/MFA Computational Arts  
+MA Computational Arts  
 Goldsmiths, University of London  
 2026
